@@ -1,5 +1,3 @@
-I’ll create a README file for your AI Course Project based on the information provided in the exercises. Here is a draft of the README:
-
 ---
 
 # AI Course Project
