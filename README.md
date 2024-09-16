@@ -1,4 +1,4 @@
-![AI-Course-Project](./MLProject.webp)
+![AI-Course-Project](./AIProject.webp)
 ---
 
 # AI Course Project
